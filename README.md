@@ -1,5 +1,14 @@
 # SensorThingsServer
-A Server implementation of the OGC SensorThings API.
+A Server implementation of the OGC SensorThings API and of the tasking capability
+
+
+ref
+https://www.mdpi.com/1424-8220/16/9/1395/htm
+
+######################################
+
+the implement of  the tasking capability base on the OGC SensorThings API by Hylke van der Schaaf and Michael Jacoby
+
 [![Build Status](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer.svg?branch=master)](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer)
 
 ## Compliance Testing Status:
@@ -185,6 +194,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
-ref
-https://www.mdpi.com/1424-8220/16/9/1395/htm
-implement the tasking capability
