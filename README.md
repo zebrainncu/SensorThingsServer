@@ -1,7 +1,7 @@
 # SensorThingsServer
 A Server implementation of the OGC SensorThings API and of the tasking capability
 
- ![image](https://github.com/zebrainncu/SensorThingsServer/IMG/sensors.png)
+ ![image](https://github.com/zebrainncu/SensorThingsServer/blob/main/IMG/sensors.png)
 
 ref
 https://www.mdpi.com/1424-8220/16/9/1395/htm
