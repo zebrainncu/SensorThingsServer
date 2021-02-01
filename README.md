@@ -7,7 +7,7 @@ https://www.mdpi.com/1424-8220/16/9/1395/htm
 
 ######################################
 
-the implement of  the tasking capability base on the OGC SensorThings API by Hylke van der Schaaf and Michael Jacoby
+the implement of  the tasking capability base on the OGC SensorThings API by Hylke van der Schaaf and Michael Jacoby.
 
 [![Build Status](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer.svg?branch=master)](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer)
 
@@ -150,47 +150,7 @@ the following options:
     * `persistence.db_username`: Database username
     * `persistence.db_password`: Database password
 
-## Docker support
 
-There's also the possibility to run SensorThingsServer and the needed database inside a Docker container.
-This dependency is specified inside the ```docker-compose.yaml``` file.
-To build and start a container including the PostGIS database run:
-
-```
-mvn clean install
-docker-compose up --build
-```
-
-All data is stored inside the PostGIS database. To keep this state there's a volume automatically mapped to the PostGIS container.
-For more information see the ```docker-compose.yaml``` file and the [PostGIS container documentation](https://hub.docker.com/r/mdillon/postgis/)
-
-
-# Authors
-
-Hylke van der Schaaf
-hylke.vanderschaaf@iosb.fraunhofer.de
-
-Michael Jacoby
-michael.jacoby@iosb.fraunhofer.de
-
-
-# License
-
-Copyright (C) 2016 Fraunhofer Institut IOSB, Fraunhoferstr. 1, D 76131
-Karlsruhe, Germany.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Lesser General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Lesser General Public License for more details.
-
-You should have received a copy of the GNU Lesser General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
