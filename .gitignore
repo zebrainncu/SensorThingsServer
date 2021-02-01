@@ -1,0 +1,10 @@
+/target
+*.autosave
+/nbproject/
+*~
+/SensorThingsServer/target/
+/SensorThingsServer.Core/target/
+/SensorThingsServer.SQL/target/
+/SensorThingsServer.MQTT.Moquette/target/
+.idea/
+*.iml
