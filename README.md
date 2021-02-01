@@ -7,7 +7,7 @@ https://www.mdpi.com/1424-8220/16/9/1395/htm
 
 ######################################
 
-The implement of  the tasking capability base on the OGC SensorThings API by Hylke van der Schaaf and Michael Jacoby.
+The implement of  the tasking capability is based on the OGC SensorThings API by Hylke van der Schaaf and Michael Jacoby.
 
 [![Build Status](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer.svg?branch=master)](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer)
 
