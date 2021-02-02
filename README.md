@@ -3,12 +3,20 @@ A Server implementation of the OGC SensorThings API and of the tasking capabilit
 
  ![image](https://github.com/zebrainncu/SensorThingsServer/blob/main/IMG/sensors.png)
 
+An Automatic Embedded Device Registration Procedure Based on the OGC SensorThings API
+
 ref
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6387111/
+
 https://www.mdpi.com/1424-8220/16/9/1395/htm
 
 ######################################
 
 The implement of  the tasking capability is based on the OGC SensorThings API by Hylke van der Schaaf and Michael Jacoby.
+
+
+
 
 [![Build Status](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer.svg?branch=master)](https://travis-ci.org/FraunhoferIOSB/SensorThingsServer)
 
